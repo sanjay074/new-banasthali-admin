@@ -1,0 +1,1 @@
+exports.baseUrl = 'http://admin.akshtest.xyz/api';
